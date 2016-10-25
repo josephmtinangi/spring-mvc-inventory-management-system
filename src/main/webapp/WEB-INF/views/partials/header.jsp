@@ -1,3 +1,4 @@
+<jsp:include page="libraries"></jsp:include>
 <!DOCTYPE html>
 <html lang="en">
   <head>
