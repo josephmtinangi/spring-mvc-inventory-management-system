@@ -1,13 +1,1 @@
-<%@ include file="partials/libraries.jsp" %>
-<html>
-<head>
-	<title>Home</title>
-</head>
-<body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
-</body>
-</html>
+<jsp:include page="partials/header.jsp"></jsp:include>
