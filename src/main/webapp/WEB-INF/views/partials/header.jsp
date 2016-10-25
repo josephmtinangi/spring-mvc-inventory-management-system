@@ -25,3 +25,5 @@
   </head>
 
   <body>
+  
+  <jsp:include page="fragments/navbar.jsp"></jsp:include>
