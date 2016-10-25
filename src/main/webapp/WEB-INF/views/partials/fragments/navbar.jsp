@@ -27,6 +27,8 @@
 						<li><a href="#">Product 4</a></li>
 					</ul>
 				</li>
+				<li><a href="login">Login</a></li>
+				<li><a href="register">Register</a></li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</div>
