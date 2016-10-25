@@ -22,6 +22,7 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="com.jmtinangi.inventorymanagementsystem" />
+	<context:component-scan base-package="com.jmtinangi.auth" />
 	
 	
 	
